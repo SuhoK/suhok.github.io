@@ -6,17 +6,24 @@ title: "Suho Kang"
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 
-##### I am an Evaluation & Analysis Engineer at the Semiconductor R&D Center of <span class="blue-text"><a href="https://semiconductor.samsung.com/">Samsung Electronics</a></span>. Concurrently, I serve as a part-time visiting researcher at the <span class="blue-text"><a href="https://mirlab.yonsei.ac.kr/">MIR Lab</a></span> at Yonsei University, where I am supervised by Prof. <span class="blue-text"><a href="https://yj-yu.github.io/home/">Youngjae Yu</a></span>.
+##### I am an Evaluation & Analysis Engineer at the Semiconductor R&D Center of <span class="blue-text"><a href="https://semiconductor.samsung.com/">Samsung Electronics</a></span>. Concurrently, I am grateful to work remotely as a lead research intern under Prof. <span class="blue-text"><a href="https://sites.google.com/view/yuanyuan-lei">Yuanyuan Lei</a></span> (University of Florida).
 
-##### My prior experience includes working as a part-time research assistant at the <span class="blue-text"><a href="https://mlai.yonsei.ac.kr/home">MLAI Lab</a></span> under the guidance of of Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?hl=ko&user=HWxRii4AAAAJ&view_op=list_works&sortby=pubdate">Kyungwoo Song</a></span>, which significantly expanded my research expertise. I also earned my M.Eng. in Artificial Intelligence from <span class="blue-text"><a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a></span> as a part-time student while working full-time at Samsung Electronics.  
 
-##### My research interests lie in personalized and reliable AI, focusing on adapting LLMs and VLMs to open-world scenarios to enhance robustness and trustworthiness. Recently, my research has focused on enabling reliable human–LLM/VLM interaction and developing techniques for building small yet dependable models.
+##### I was fortunate to work with Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=ko">Youngjae Yu</a></span>
+during visiting at <span class="blue-text"><a href="https://en.snu.ac.kr/">Seoul National University</a></span>.
+I earned my M.Eng. in AI from <span class="blue-text"><a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a></span> and had the privilege of working part-time as a research associate under Prof.<span class="blue-text"><a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko">Kyungwoo Song</a></span>.
+
+##### I am broadly interested in personalized and trustworthy AI. I currently focus on causality-guided replanning that aligns with user norms and safety constraints.
 
 ## 🔭 Publication  
 
-  * **RPLKG: Robust Prompt Learning with Knowledge Graph**  
-  Yongtaek Lim∗, Yewon Kim∗, **Suho Kang**, Dokyung Yoon, Kyungwoo Song  
-  arXiv preprint [📄 Paper](https://arxiv.org/html/2304.10805v2) (*: Equal contribution) 
+  * **Tracing Mathematical Proficiency Through Problem-Solving Processes**  
+  Jungyang Park∗, **Suho Kang∗**, Jaewoo Park, Jaehong Kim, Jaewoo Shin, Seonjoon Park, Youngjae Yu  
+  arXiv preprint (*: Equal contribution)
+
+  * **EPLKG: Efficient Prompt Learning with Knowledge Graph**  
+  Yongtaek Lim∗, **Suho Kang∗**, Yewon Kim∗, Dokyung Yoon, Kyungwoo Song  
+  arXiv preprint (*: Equal contribution)
 
   * **Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**  
   **Suho Kang**, Jungyang Park, Joonseo Ha, SoMin Kim, JinHyeong Kim, Subeen Park, Kyungwoo Song  
@@ -25,7 +32,6 @@ title: "Suho Kang"
   <img src="/assets/images/amazon-official-logo.png" alt="Amazon Logo" width="60px">
 </span>
 
-    
   * **Efficient Transfer Learning driven by Layer-wise Features Aggregation**  
   Chanwoo Kim, Jeyoon Yeom, Joowang Kim, **Suho Kang**, Kyungwoo Song  
   NeurIPS 2024 Workshop: Adaptive Foundation Models [📄 Paper](https://openreview.net/forum?id=Q0tfRYadhc#discussion)  
