@@ -9,7 +9,7 @@ title: "Suho Kang"
 ##### I am an Evaluation & Analysis Engineer at the Semiconductor R&D Center of <span class="blue-text"><a href="https://semiconductor.samsung.com/">Samsung Electronics</a></span>. Concurrently, I am grateful to work remotely as a lead research intern under Prof. <span class="blue-text"><a href="https://sites.google.com/view/yuanyuan-lei">Yuanyuan Lei</a></span> (University of Florida).
 
 
-##### I was fortunate to work with Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=ko">Youngjae Yu</a></span> during visiting at <span class="blue-text"><a href="https://en.snu.ac.kr/">Seoul National University</a></span>. I earned my M.Eng. in AI from <span class="blue-text"><a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a></span> and had the privilege of working part-time as a research associate under Prof.<span class="blue-text"><a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko"> Kyungwoo Song</a></span>.
+##### I was fortunate to work with Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=ko">Youngjae Yu</a></span> (Seoul National University). I earned my M.Eng. in AI from <span class="blue-text"><a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a></span> and had the privilege of working part-time as a research associate under Prof.<span class="blue-text"><a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko"> Kyungwoo Song</a></span>.
 
 
 ##### I am broadly interested in personalized and trustworthy AI. I currently focus on causality-guided replanning that aligns with user norms and safety constraints.
