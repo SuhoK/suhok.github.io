@@ -6,15 +6,15 @@ title: "Suho Kang"
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 
-##### I am an Evaluation & Analysis Engineer at the Semiconductor R&D Center of <span class="blue-text"><a href="https://semiconductor.samsung.com/">Samsung Electronics</a></span>.
+##### I am an Evaluation & Analysis Engineer at the Semiconductor R&D Center of <span class="blue-text"><a href="https://semiconductor.samsung.com/">Samsung Electronics</a></span>.<br>
 ##### Concurrently, I am grateful to work remotely as a research intern mentored by Prof. <span class="blue-text"><a href="https://sites.google.com/view/yuanyuan-lei">Yuanyuan Lei</a></span> at the University of Florida.
 
 
-##### I was fortunate to work with Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=ko">Youngjae Yu</a></span> at Seoul National University.
+##### I was fortunate to work with Prof. <span class="blue-text"><a href="https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=ko">Youngjae Yu</a></span> at Seoul National University.<br>
 ##### I earned my M.Eng. in AI from <span class="blue-text"><a href="https://www.yonsei.ac.kr/en_sc/index.jsp">Yonsei University</a></span> and had the privilege of working part-time as a research associate under Prof.<span class="blue-text"><a href="https://scholar.google.com/citations?user=HWxRii4AAAAJ&hl=ko"> Kyungwoo Song</a></span>.
 
 
-##### I am broadly interested in reliable, efficient, and trustworthy AI.
+##### I am broadly interested in reliable, efficient, and trustworthy AI.<br>
 ##### My current research focuses on reasoning and replanning with LLMs/MLLMs.
 
 ## 🔭 Publication  
