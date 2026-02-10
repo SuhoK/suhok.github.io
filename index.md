@@ -22,16 +22,16 @@ title: "Suho Kang"
   
   * **EPLKG: Efficient Prompt Learning with Knowledge Graph**  
   Yongtaek Lim∗, **Suho Kang∗**, Yewon Kim∗, Dokyung Yoon, Kyungwoo Song  
-  arXiv preprint (*: Equal contribution) [📄 Paper](https://arxiv.org/abs/2304.10805)
+  <span class="blue-text">PAKDD 2026 (DSFA Session)</span> (*: Equal contribution) [📄 Paper](https://arxiv.org/abs/2304.10805)
 
   * **Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**  
   **Suho Kang**, Jungyang Park, Joonseo Ha, SoMin Kim, JinHyeong Kim, Subeen Park, Kyungwoo Song  
-  EMNLP 2024 Workshop: GenBench [📄 Paper](https://arxiv.org/abs/2410.18001)  
+  <span class="blue-text">EMNLP 2024 Workshop: GenBench</span> [📄 Paper](https://arxiv.org/abs/2410.18001)  
   🏆 Recipient of the <span class="blue-text">.<strong>Amazon Travel Scholarship</strong></span> Sponsored by <span style="vertical-align:middle;">
   <img src="/assets/images/amazon-official-logo.png" alt="Amazon Logo" width="60px">
 </span>
 
   * **Efficient Transfer Learning driven by Layer-wise Features Aggregation**  
   Chanwoo Kim, Jeyoon Yeom, Joowang Kim, **Suho Kang**, Kyungwoo Song  
-  NeurIPS 2024 Workshop: Adaptive Foundation Models [📄 Paper](https://openreview.net/forum?id=Q0tfRYadhc#discussion)  
+  <span class="blue-text">NeurIPS 2024 Workshop: Adaptive Foundation Models</span> [📄 Paper](https://openreview.net/forum?id=Q0tfRYadhc#discussion)  
   
