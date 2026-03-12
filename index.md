@@ -18,7 +18,7 @@ title: "Suho Kang"
 
   * **Tracing Mathematical Proficiency Through Problem-Solving Processes**  
   Jungyang Park∗, **Suho Kang∗**, Jaewoo Park, Jaehong Kim, Jaewoo Shin, Seonjoon Park, Youngjae Yu  
-  arXiv preprint (*: Equal contribution) [📄 Paper](https://www.arxiv.org/abs/2512.00311)
+  in submission to the Association for Computational Linguistics (ACL) Rolling Review (*: Equal contribution) [📄 Paper](https://www.arxiv.org/abs/2512.00311)
   
   * **EPLKG: Efficient Prompt Learning with Knowledge Graph**  
   Yongtaek Lim∗, **Suho Kang∗**, Yewon Kim∗, Dokyung Yoon, Kyungwoo Song  
