@@ -18,11 +18,11 @@ title: "Suho Kang"
 
   * **Tracing Mathematical Proficiency Through Problem-Solving Processes**  
   Jungyang Park∗, **Suho Kang∗**, Jaewoo Park, Jaehong Kim, Jaewoo Shin, Seonjoon Park, Youngjae Yu  
-  Findings of the 2026 Annual Meetings of the Association for Computational Linguistics <span class="blue-text">**(ACL 2026)**</span> (*: Equal contribution) [📄 Paper](https://www.arxiv.org/abs/2512.00311)
+  Findings of the 2026 Annual Meetings of the Association for Computational Linguistics <span class="blue-text">**(ACL 2026)**</span> <br> (*: Equal contribution) [📄 Paper](https://www.arxiv.org/abs/2512.00311)
   
   * **EPLKG: Efficient Prompt Learning with Knowledge Graph**  
   Yongtaek Lim∗, **Suho Kang∗**, Yewon Kim∗, Dokyung Yoon, Kyungwoo Song  
-  Data Science: Foundations and Applications, 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining <span class="blue-text">**(PAKDD 2026)**</span> (*: Equal contribution) [📄 Paper](https://arxiv.org/abs/2304.10805)
+  Data Science: Foundations and Applications, 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining <span class="blue-text">**(PAKDD 2026)**</span> <br> (*: Equal contribution) [📄 Paper](https://arxiv.org/abs/2304.10805)
 
   * **Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation**  
   **Suho Kang**, Jungyang Park, Joonseo Ha, SoMin Kim, JinHyeong Kim, Subeen Park, Kyungwoo Song  
